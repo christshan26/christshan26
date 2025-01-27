@@ -5,6 +5,9 @@
 - 📫 How to reach me: linkedin.com/in/christoffer-sten-hansson
 - 🌐 Webpage: christofferhansson.my.canva.site
 
+- NOT MUCH TO SEE HERE IN TERMS OF PUBLIC REPOS, YET!
+- Currently working on a project hopefully worthy of your attention in the near future.
+
 <!---
 christshan26/christshan26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
