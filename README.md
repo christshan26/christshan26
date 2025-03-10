@@ -2,8 +2,8 @@
 - 🌏 Born, raised and living in Sweden.
 - 👀 I’m interested in Food/Tech/Nature.
 - 🌱 I’m currently aspiring to become a .NET Developer, Studying @ Teknikhögskolan, Gävle Sweden
-- 📫 How to reach me: linkedin.com/in/christoffer-sten-hansson
-- 🌐 Webpage: christofferhansson.my.canva.site
+- 📫 How to reach me: [linkedin.com/in/christoffer-sten-hansson](url)
+- 🌐 Webpage: [christofferhansson.my.canva.site](url)
 
 - NOT MUCH TO SEE HERE IN TERMS OF PUBLIC REPOS, YET!
 - Currently working on a project hopefully worthy of your attention in the near future.
