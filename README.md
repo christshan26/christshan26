@@ -3,7 +3,7 @@
 - 👀 I’m interested in Food/Tech/Nature.
 - 🌱 I’m currently aspiring to become a .NET Developer, Studying @ Teknikhögskolan, Gävle Sweden
 - 📫 How to reach me: [linkedin.com](linkedin.com/in/christoffer-sten-hansson)
-- 🌐 Webpage: [Personal webpage](christofferhansson.my.canva.site)
+- 🌐 Webpage: [https://christofferhansson.my.canva.site/]([url](https://christofferhansson.my.canva.site/))
 
 - NOT MUCH TO SEE HERE IN TERMS OF PUBLIC REPOS, YET!
 - Currently working on a project hopefully worthy of your attention in the near future.
