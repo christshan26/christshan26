@@ -5,8 +5,7 @@
 - 📫 How to reach me: [linkedin.com](https://www.linkedin.com/in/christoffer-sten-hansson/)
 - 🌐 Webpage: [Personal Webpage](https://christofferhansson.my.canva.site/)
 
-- NOT MUCH TO SEE HERE IN TERMS OF PUBLIC REPOS, YET!
-- Currently working on a project hopefully worthy of your attention in the near future.
+- Currently working on this: [https://github.com/christshan26/PlannerApp1](https://github.com/christshan26/PlannerApp1)
 
 <!---
 christshan26/christshan26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
